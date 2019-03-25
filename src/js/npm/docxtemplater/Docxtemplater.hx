@@ -1,4 +1,5 @@
 package js.npm.docxtemplater;
+import js.npm.jszip.JSZip;
 import js.Promise;
 @:jsRequire("docxtemplater")
 extern class Docxtemplater {
